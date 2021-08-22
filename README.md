@@ -15,4 +15,4 @@
 </ul>
 
 <h2>Screen-shot</h2>
-<img src="./src/assests/list-compare.jpg" />
+<img src="https://raw.githubusercontent.com/PratikFandade/List-Compare/main/src/assests/list-compare.JPG" />
