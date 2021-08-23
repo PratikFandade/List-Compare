@@ -11,7 +11,6 @@
 <ul>
     <li>Developed on <a href="https://reactjs.org/">React</a> Platform</li>
     <li>Used <a href="https://react-bootstrap.github.io/">react-bootstrap</a> for Responsive UI</li>
-    <li>Displays both the Lists combined without duplicates</li>
 </ul>
 
 <h2>Screen-shot</h2>
